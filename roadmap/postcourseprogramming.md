@@ -1,13 +1,13 @@
 # What happens after graduation?
 
-Congrats, you graduated from GA’s Immersive Program! We are so proud of all of your hard work and you should be too. We know that you may have a few additions to your resume and portfolio, or may want some additional practice to work on your pitch - we got you covered!  You will work closely with your coach to discover how to best sell your talents to employers and set yourself up for success in your job search. Here are some things to be aware of going forward. 
+Congrats, you graduated from GA’s Data Science Immersive Program! We are so proud of all of your hard work and you should be too. We know that you may have a few additions to your resume and portfolio, or may want some additional practice to work on your pitch - we got you covered!  You will work closely with your coach to discover how to best sell your talents to employers and set yourself up for success in your job search. Here are some things to be aware of going forward. 
 
 # Final Outcomes Toolkit Materials 
 **You MUST have all of your job search materials 100% done by the Monday following graduation at 7 PM.** 
 We expect your Resume, Cover Letter, LinkedIn, GA Profile, and Portfolio to be final at this point. By this we mean you would be ok if an employer saw any of these materials. Remember that these materials are required to receive ongoing support from Outcomes.
 
 
-# Meet & Hire Networking Event 
+# Local Hiring / Networking Event 
 
 ## Framing:
 
@@ -63,7 +63,7 @@ Practice your pitch at least 10 times the day before.  Be sure you sound calm, c
 
 Hi NAME,
 
-It was great to meet you at GA’s Meet & Hire yesterday.  I appreciated your insights into {SPECIFIC FACT YOU TALKED ABOUT}. I believe I could make a great addition to your team due to my skills in {SPECIFIC SKILLS YOU HAVE}.
+It was great to meet you at GA’s hiring event yesterday.  I appreciated your insights into {SPECIFIC FACT YOU TALKED ABOUT}. I believe I could make a great addition to your team due to my skills in {SPECIFIC SKILLS YOU HAVE}.
 
 I have applied through your website and have also attached my resume for your reference. Thank you for your time and consideration.
 
@@ -76,7 +76,7 @@ Thank you,
 NAME, EMAIL, PHONE
 
 
-## Meet & Hire Networking Event Dates:
+## Local Hiring Event Dates:
 
 ### EAST COAST
 **Atlanta:** 
