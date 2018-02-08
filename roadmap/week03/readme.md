@@ -58,7 +58,7 @@ Homework due next Monday at 7 pm:
 
 ### DRAFT Brand Statement
 
-- Create Your Draft Brand Statement and have 3 classmates peer review it. 
+- Create Your Draft Brand Statement and have 3 classmates peer review it. Submit for review in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
 
 ### FINAL LinkedIn Profile
 
