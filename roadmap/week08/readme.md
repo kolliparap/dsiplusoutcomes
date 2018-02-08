@@ -210,6 +210,8 @@ There is nothing to submit in Github this week.
 
 **Example GA DSI Portfolios:**
 
+* [Andrew Bradley](https://abradley.io/)
+
 * [Cody Laminack](https://www.codylaminack.com/)
 
 * [David Ortiz](https://ortizdav18.github.io/My_Website/)
