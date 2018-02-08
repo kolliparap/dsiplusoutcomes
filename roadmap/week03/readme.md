@@ -36,7 +36,7 @@ We know this is tough! Remember that this is just a starting point.
 **Step 3: Build a statement that strings these benefits together concisely, powerfully and effectively.** 
 - Practice and wordsmith your statement to communicate your most authentic self that tells your story, highlights your strengths, and embodies who you are as a person and professional. This is going to be challenging! If you get stuck, we recommend creating lots of different versions.
     
-    -Here are some Examples: 
+## Here are some Examples: 
     - "I'm a data scientist driven relentlessly by the desire to creatively solve stubborn problems by being more stubborn than the problems. An entrepreneurial spirit with a teacher's mindset, I find new paths and then teach others the way forward. I seek new challenges and teams that allow me to apply my versatile skill set.” - James Denny 
 
     - "Curious cat with an insatiable desire to understand. Driven by empathy and inspired by the iterative nature of the design process, I am committed to continuous learning for improvement. My inquisitive nature pushes me to be creative in seeking solutions as I aim to impact people through positive user experiences." -Sharon Choi 
