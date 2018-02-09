@@ -20,6 +20,8 @@ From there, we'll be digging into the best way to find and apply for jobs. We'll
 
 We'll also discuss cover letters and the role they play in the application process. It is important to create a strong cover letter, even if employer don't read them, and we'll review some examples and have time to spend individually drafting our cover letter templates. 
 
+The last half of the session each classroom will join zoom for a panel comprised of recruiters who will share what they look for in data candidate applications. 
+
 
 ## Homework 
 Homework due next Monday at 7PM. 
