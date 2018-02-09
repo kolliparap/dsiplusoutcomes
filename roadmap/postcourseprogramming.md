@@ -79,26 +79,26 @@ NAME, EMAIL, PHONE
 ## Local Hiring Event Dates:
 
 ### EAST COAST
-**Atlanta:** 
+**Atlanta:** April 25 from 4-7pm EST
 
-**Austin:** 
+**Austin:** April 24 from 5:30-6:30pm CST
 
-**Boston:** 
+**Boston:** May 2 from 4:30-6:30pm EST
 
-**Chicago:** 
+**Chicago:** May 2 from 3:30-5:30pm CST
 
-**New York City:** 
+**New York City:** April 26 from 4:30-6pm EST
 
-**Washington D.C.:** 
+**Washington D.C.:** April 18 from 3-7pm EST
 
 ### WEST COAST
 **Denver:** 
 
-**San Francisco:** 
+**San Francisco:** May 2 from 12-1:30pm PST
 
 **Santa Monica:** 
 
-**Seattle:** 
+**Seattle:** April 26 from 3:30-6pm PST
 
 
 ## Keep in contact with your coach:
