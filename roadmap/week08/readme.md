@@ -120,7 +120,7 @@ Below are a few options that we recommend you consider when creating your portfo
 
 * Free
 
-## Blogging
+## Blogging:
 Blogging is a great way to share your technical talents with both non technical and technical audiences as a job seeker to gain exposure to who you are and what you do. Think about how hiring managers can gain insight into how you think. What if you are not sitting right next to them to walk them through your project. Your blog can do that for them! 
  
 More on [blogging](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/Blogging.md)
@@ -172,7 +172,7 @@ Login at [http://profiles.generalassemb.ly/profiles/new](http://profiles.general
  
 Create your draft GA Profile. Remember that once your GA Profile is live, it is visible to hiriring partners and recruiters. Be extra diligent with your spelling, grammar and attention to detail. 
 
-Once you feel like you are ready to submit, have 3 classmates peers review it. 
+Once you feel like you are ready to submit, have 3 classmates peers review it. You can do ths by clicking the Preview button located in the final publish section. 
 
 By the end of class, you should have your peer reviewed GA Profile submitted and the domain name to your Portfolio created.
 This is also a great time to meet 1:1 with your coach to answer any questions you might have for Outcomes. 
@@ -189,9 +189,6 @@ Homework due next Monday at 7 pm:
 ### Reach out to 3 data professionals to set up 1:1 information meetings or phone calls to learn more about their role/company
 
 - Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
-
-
-There is nothing to submit in Github this week. 
 
 ## Local Market Presentations
 
