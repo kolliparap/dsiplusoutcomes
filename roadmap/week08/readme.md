@@ -192,16 +192,16 @@ Homework due next Monday at 7 pm:
 
 ## Local Market Presentations
 
-- Atlanta
-- Austin
-- Boston
-- Chicago
-- DC
-- NYC
+- [Atlanta](https://docs.google.com/presentation/d/1IQCOewjc-UYO14r33CBv_4YOrISRBwqqQMZEa5djDhU/edit?usp=sharing)
+- [Austin](https://drive.google.com/open?id=1kLVTaklPhDx-tIwsmV9V53mjWVBSbSS3)
+- Boston - Github and Live walkthrough.  No slides used.
+- [Chicago](https://drive.google.com/drive/folders/0B79n4qzQBXGkZkQ5M0pOZVhwOEE)
+- DC - Github and Live walkthrough.  No slides used. 
+- [NYC](https://docs.google.com/presentation/d/1AN9Uohz6IR3Y-bb_oG_t1rrTavycqL3kJsupyUA1jqo/edit#slide=id.g2c6059538a_0_758)
 - Denver
-- Los Angeles
-- San Francisco
-- Seattle
+- [Los Angeles](https://drive.google.com/drive/folders/0B2TA2w6EftvNeWJzaTJTbjNSLTQ)
+- [San Francisco](https://drive.google.com/file/d/1W1EDmmY-bUTVS-y81Ch5xMEe8KnZrW3x/view?usp=sharing)
+- [Seattle](https://docs.google.com/presentation/d/1GMu1xzW0_z9naMc2azzHILWr2V_INPW1jpkFUYgLzBk/edit?usp=sharing)
 
 ## Further Reading/ Resources:
 
