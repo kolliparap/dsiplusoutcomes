@@ -22,7 +22,7 @@ Don’t forget to connect with all speakers on LinkedIn and thank them for their
 Homework due next Monday at 7 pm: 
 
 ### FINAL Brand Statement
-- Your brand statement should have been reviewed by three peers. Submit the final statement in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
+- Your brand statement should have been reviewed by three peers. Submit the final statement in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md).
 
 ### Find 3 Organizations that pique your interest
 
