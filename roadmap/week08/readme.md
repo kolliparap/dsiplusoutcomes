@@ -260,7 +260,7 @@ Homework due next Monday at 7 pm:
 
 * [Ramya Ramaswamy](https://profiles.generalassemb.ly/profiles/ramya-ramaswamy)
 
-**Thought Leaderss:**
+**Thought Leaders:**
 
 * [Top 16 Active Big Data, Data Science Leaders on LinkedIn](https://www.kdnuggets.com/2016/09/top-big-data-science-leaders-linkedin.html)
 
