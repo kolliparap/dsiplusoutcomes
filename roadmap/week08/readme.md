@@ -260,3 +260,12 @@ Homework due next Monday at 7 pm:
 
 * [Ramya Ramaswamy](https://profiles.generalassemb.ly/profiles/ramya-ramaswamy)
 
+**Thought Leaderss:**
+
+* [Top 16 Active Big Data, Data Science Leaders on LinkedIn](https://www.kdnuggets.com/2016/09/top-big-data-science-leaders-linkedin.html)
+
+* [42 Essential Quotes by Data Science Thought Leaders](https://www.kdnuggets.com/2017/05/42-essential-quotes-data-science-thought-leaders.html)
+
+* [43 Data Science Thought Leaders](https://www.datasciencecentral.com/profiles/blogs/43-data-science-thought-leaders-according-to-berkeley-university)
+
+* [15 Big Data, Analytics, and Data Science Influencers You Should Be Following](https://hackernoon.com/15-big-data-analytics-and-data-science-influencers-you-should-be-following-2ad832bc1e5)
