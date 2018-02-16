@@ -190,6 +190,10 @@ Homework due next Monday at 7 pm:
 
 - Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
 
+### Write a post. [Due in 2 weeks.]
+
+- Write your first blog post using Medium or LinkedIn. It can be on any topic, as long as it's related to data. Share the post link via Github; you will not receive direct feedback about your post from your coach. 
+
 ## Local Market Presentations
 
 - [Atlanta](https://docs.google.com/presentation/d/1IQCOewjc-UYO14r33CBv_4YOrISRBwqqQMZEa5djDhU/edit?usp=sharing)
