@@ -43,7 +43,9 @@ Homework due next Monday at 7 pm:
 
 - Add it to your calendar and keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings. This will set you up for success post graduation.
 
-There is nothing to submit to Github. 
+### Write your second blog post using LinkedIn or Medium. [Due in 2 weeks.] 
+
+- Share the link via Github; you will not receive direct feedback from your coach about your post. 
 
 
 ## Further Reading/ Resources: 
