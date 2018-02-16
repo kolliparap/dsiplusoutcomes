@@ -2,13 +2,11 @@
 
 ## Learning Objectives:
 
-* Create your draft GA Profile!
-
-* Editing process for GA Profiles
-
 * How to use GA Profiles and it’s job board
 
 * Etiquette when responding to employers via GA Profiles
+
+* Create your draft GA Profile!
 
 * Best practices in creating a portfolio 
 
@@ -120,10 +118,10 @@ Below are a few options that we recommend you consider when creating your portfo
 
 * Free
 
-## Blogging:
-Blogging is a great way to share your technical talents with both non technical and technical audiences as a job seeker to gain exposure to who you are and what you do. Think about how hiring managers can gain insight into how you think. What if you are not sitting right next to them to walk them through your project. Your blog can do that for them! 
+## Blogging aka Thought Leadership:
+Thought leadership means you just have something compelling to share. Blogging is a great way to share your technical talents with both non technical and technical audiences as a job seeker to gain exposure to who you are and what you do. Think about how hiring managers can gain insight into how you think. What if you are not sitting right next to them to walk them through your project. Your blog can do that for them! 
  
-More on [blogging](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/Blogging.md)
+Read more on [blogging](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/Blogging.md). 
 
 ## Blogs & Project Best Practices:
 Projects are a great way to showcase your your skills in a way that that your user can see how you actually put the skills you learned to action.  With each project, think about how you can convey your talents, your skills, your role, and the impact/result of the scenario.  Here are some general best practices!  
