@@ -67,23 +67,11 @@ Do your research - your resume is your personal advertisement
 ## Homework 
 Homework due next Monday at 7 pm:
 
-### WHAT'S MY BRAND WORKSHEET
-- Complete the workshee if you haven't already in preparation for next week's session. This worksheet will prepare you for the branding workshop. After the workshop you'll have the tools and information needed to draft your brand statement. 
+- Complete the [WHAT'S MY BRAND WORKSHEET](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform). Complete the worksheet if you haven't already in preparation for next week's session. This worksheet will prepare you for the branding workshop. After the workshop you'll have the tools and information needed to draft your brand statement. 
 
-- Your brand is your value proposition. It is important to understand who you are as a professional in your chosen field. It is what makes you uniquely qualified over candidates who are just merely qualified based solely on hard skills. 
+- Draft Resume. Have your draft resume ready so that you can have 3 classmates peer review it utilzing the [resume checklist](https://docs.google.com/document/d/1J4qzuMSKqSGQAttJTPRhTXZAStojdYjWyUrF9XxGXwU/edit?usp=sharing). (You do not need to submit this to Github). Once it has been reviewed, submit the draft in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
 
-- Outcomes will not be giving you feedback on this worksheet, but please take it seriously as it will make it easier to craft your brand statement.
-
-- [Access the worksheet here](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform) 
-
-### DRAFT RESUME
-
-- Have your draft resume ready so that you can have 3 classmates peer review it utilzing the [resume checklist](https://docs.google.com/document/d/1J4qzuMSKqSGQAttJTPRhTXZAStojdYjWyUrF9XxGXwU/edit?usp=sharing). (You do not need to submit this to Github) 
-- Submit the draft in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)
-
-### REACH OUT to 3 Data Science professionals to set up 1:1 informational meetings or phone calls to learn more about their role/company.
-
-- Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
+- Reach out to 3 Data Science professionals to set up 1:1 informational meetings or phone calls to learn more about their role/company. Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
 
 ## Local Market Presentations:
 

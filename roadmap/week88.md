@@ -26,9 +26,9 @@ The last half of the session each classroom will join zoom for a panel comprised
 ## Homework 
 Homework due next Monday at 7PM. 
 
-### DRAFT Cover Letter
+- DRAFT Cover Letter
 
-- Have your draft cover letter ready so that you can have 3 classmates peer review it. (You do not need to submit this to Github)
+   - Have your draft cover letter ready so that you can have 3 classmates peer review it or discuss it in a 1:1 meeting with your coach. You do not need to submit this to Github. 
 
 ## Local Market Presentations
 

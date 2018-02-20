@@ -22,12 +22,9 @@ Negotiating can be hard and intimidating. No matter how many times you have nego
 ## Homework 
 Homework due next Monday at 7 pm:
 
-### Find 3 Organizations that pique your interest
-- Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
+- Find 3 Organizations that pique your interest. Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
 
-### Reach out to 3 Data Professionals to set up 1:1 information meetings or phone calls to learn more about their role/company
-
-- Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
+- Reach out to 3 Data Professionals to set up 1:1 information meetings or phone calls to learn more about their role/company. Keep this in your own personal list and/or job tracker, we won't be collecting it but will be asking about it in 1:1 meetings.
 
 There is nothing to submit to Github. 
 
