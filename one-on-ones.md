@@ -47,6 +47,6 @@ One-on-Ones are a safe space to talk about literally anything. One-on-Ones might
 ### [Ari Aldebot](http://www.slyreply.com/app/sheets/vxohcxcyxoeo/)
 - San Francisco Career Coach
 
-### [Casey Hills](https://caseyhills.youcanbook.me/)
+### [Catherine Basil](https://calendar.google.com/calendar/selfsched?sstoken=UU5WWm5tdkFONGdxfGRlZmF1bHR8YzQ5MWJjOWFjZjU5MGQzMWYzNGI4Yzk1NTllNGYyZjA)
 - Seattle Career Coach
 
