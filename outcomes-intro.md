@@ -59,10 +59,10 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 - [arianna.aldebot@ga.co](mailto:arianna.aldebot@ga.co)
 - [Meet Ari!](https://www.linkedin.com/in/ariannaaldebot/)
 
-### Casey Hills
+### Catherine Basl
 - Seattle Career Coach
-- [casey@ga.co](mailto:casey@ga.co)
-- [Meet Casey!](https://www.linkedin.com/in/caseyhills/)
+- [catherine.basl@ga.co](mailto:catherine.basl@ga.co)
+- [Meet Catherine!](https://www.linkedin.com/in/catherinebasl/)
 
 
 
