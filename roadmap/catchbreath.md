@@ -1,12 +1,15 @@
-# Catch your Breath, Regroup, & Meet with Your Coach
+# Catch your Breath, Regroup, & Meet with Your Coach + Guest Speaker, Steve Mortimer
 
 ## Learning Objectives:
 
 * Get caught up on outcomes work! 
+* Hear from Steve Mortimer about the importance of creating a strong and consistent online presence
 
 ## Framing:
 
 Take advantage of this week to polish your Brand Statement, Resume, GA Profile, LinkedIn Profile, and get your draft Portfolio in place. Bring all of these things to outcomes this week for additional feedback. You will have the opportunity to have 1:1 support from your local career coach.
+
+From there, join the global session, where you'll hear from [Steve Mortimer](https://stevenmortimer.com/). He will discuss the importance of creating a strong online presence to aid you in your job search and career. 
 
 ## Homework
 
@@ -25,6 +28,8 @@ Homework due next Monday at 7 pm:
 ### Submit your Homework in Github within your [local market repo](https://github.com/ga-students/dsiplusoutcomes/blob/master/SubmittingHW.md)**
 
 ## Further Reading/ Resources:
+
+View today's session on [YouTube](https://youtu.be/M4TbvzRhDew)
 
 [The Power of the Pose](https://blog.ted.com/10-examples-of-how-power-posing-can-work-to-boost-your-confidence/)
 
