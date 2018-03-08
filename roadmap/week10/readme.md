@@ -54,6 +54,8 @@ Homework due next Monday at 7 pm:
 
 ## Further Reading/ Resources: 
 
+View the panel recording [here](https://youtu.be/kelybkfQh1Y). 
+
 Recruiting Firms we’ve worked with:  
 - [The Creative Group](https://www.roberthalf.com/creativegroup) 
 - [Robert Half Technology](https://www.roberthalf.com/) 
