@@ -37,10 +37,10 @@ Questions you could ask:
 * What is your company looking for in candidates' portfolio?
 
 ## Guests
--Christine Pfeil, MassMutual, Data Science Development Program Manager [BOS]
--Christopher Connell, Trendkite, Senior Software Developer - Machine Learning [ATX]
--Andrew Tsintsiruk, Managing Director - Innovizo [DC] 
--Winston Featherly-Bean, Argo Group, Data Scientist [NYC]
+- Christine Pfeil, MassMutual, Data Science Development Program Manager [BOS]
+- Christopher Connell, Trendkite, Senior Software Developer - Machine Learning [ATX]
+- Andrew Tsintsiruk, Managing Director - Innovizo [DC] 
+- Winston Featherly-Bean, Argo Group, Data Scientist [NYC]
 
 ## Homework 
 Homework due next Monday at 7 pm:
@@ -65,8 +65,5 @@ Recruiting Firms we’ve worked with:
 - [Aquent ](https://aquent.com/)
 - [Eliassen Group](http://www.eliassen.com/)
 - [The Goal Inc ](http://www.thegoalinc.com/)
-
-[Veredus](https://vereduscorp.com/)
-
-[Vitamin T](https://vitamintalent.com/)  
+- [Veredus](https://vereduscorp.com/)
 
