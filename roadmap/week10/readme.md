@@ -36,6 +36,12 @@ Questions you could ask:
 
 * What is your company looking for in candidates' portfolio?
 
+## Guests
+-Christine Pfeil, MassMutual, Data Science Development Program Manager [BOS]
+-Christopher Connell, Trendkite, Senior Software Developer - Machine Learning [ATX]
+-Andrew Tsintsiruk, Managing Director - Innovizo [DC] 
+-Winston Featherly-Bean, Argo Group, Data Scientist [NYC]
+
 ## Homework 
 Homework due next Monday at 7 pm:
 
@@ -49,26 +55,16 @@ Homework due next Monday at 7 pm:
 ## Further Reading/ Resources: 
 
 Recruiting Firms we’ve worked with:  
-
-[The Creative Group](https://www.roberthalf.com/creativegroup) 
-
-[Robert Half Technology](https://www.roberthalf.com/) 
-
-[The Boss Group](http://www.thebossgroup.com/) 
-
-[Fahrenheit IT Staffing and Consulting](http://www.fahrenheitit.com/) 
-
-[TEKSystems](https://www.teksystems.com/en) 
-
-[Hire Strategy ](http://www.hirestrategy.com/)
-
-[Modis](http://www.modis.com/) 
-
-[Aquent ](https://aquent.com/)
-
-[Eliassen Group](http://www.eliassen.com/)
-
-[The Goal Inc ](http://www.thegoalinc.com/)
+- [The Creative Group](https://www.roberthalf.com/creativegroup) 
+- [Robert Half Technology](https://www.roberthalf.com/) 
+- [The Boss Group](http://www.thebossgroup.com/) 
+- [Fahrenheit IT Staffing and Consulting](http://www.fahrenheitit.com/) 
+- [TEKSystems](https://www.teksystems.com/en) 
+- [Hire Strategy ](http://www.hirestrategy.com/)
+- [Modis](http://www.modis.com/) 
+- [Aquent ](https://aquent.com/)
+- [Eliassen Group](http://www.eliassen.com/)
+- [The Goal Inc ](http://www.thegoalinc.com/)
 
 [Veredus](https://vereduscorp.com/)
 
