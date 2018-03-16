@@ -43,8 +43,6 @@ There is nothing to submit to Github.
 
 ## Further Reading/ Resources:
 
-[Interviews & Negotiation Slides](https://drive.google.com/open?id=0B2111_pgbRHrRHhOM3ZoTjJXUGc)
-
 **Interviewing:**
 
 [The Muse: The Ultimate Guide to Researching a Company Pre-Interview](https://www.themuse.com/advice/the-ultimate-guide-to-researching-a-company-preinterview)
