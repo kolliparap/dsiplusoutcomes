@@ -30,16 +30,16 @@ There is nothing to submit to Github.
 
 ## Local Market Presenations
 
-- Atlanta
-- Austin
-- Boston
-- Chicago
-- DC
-- NYC
-- Denver
+- [Atlanta](https://docs.google.com/presentation/d/1YZaVnyRbaL9ab1R3Rn84h_i4sjMSBRMAZZaKjq4UKwE/edit?usp=sharing)
+- [Austin](https://drive.google.com/file/d/1DSteJDS_NKWRq3SrhnZLsavd2YsrwXM7/view?usp=sharing)
+- [Boston](https://www.dropbox.com/s/5msw5b75o5rb3l1/G.%20Interview%20Prep_BOS.pdf?dl=0)
+- [Chicago](https://www.dropbox.com/s/5msw5b75o5rb3l1/G.%20Interview%20Prep_BOS.pdf?dl=0)
+- [DC](https://drive.google.com/open?id=1A0IX6oBIPwYzcdPyn1_0uQBjKRv91Tm7)
+- [NYC](https://drive.google.com/file/d/1Imqc1I7NZeafuqCiyVR0TsPZGNsD9EK9/view?usp=sharing)
+- [Denver](https://drive.google.com/open?id=1hcK8o_W0WWi-Lni_n9zYeJcNTWLZYR7p1uqP1deNXiA)
 - Los Angeles
-- San Francisco
-- Seattle
+- [San Francisco](https://drive.google.com/file/d/1iwZ4_v-rOG1teWxiU6qCHKgCitrXM8e2/view?usp=sharing)
+- [Seattle](https://docs.google.com/presentation/d/1svHYNGUI_T43WCIZ1hyBM8kPFfn3L4-gDLdewcQQVyc/edit?usp=sharing)
 
 ## Further Reading/ Resources:
 
