@@ -30,16 +30,16 @@ Homework due next Monday at 7PM.
 
 ## Local Market Presentations
 
-- Atlanta
-- Austin
+- [Atlanta](https://docs.google.com/presentation/d/17uEGhkhe7X0NPq2vBgVoot7F43qSUvFU8WrBW7C4OpM/edit?usp=sharing)
+- [Austin](https://drive.google.com/file/d/12wmBVayekxqx_kSvtTCI9eKEKjPeOs4A/view?usp=sharing)
 - Boston
-- Chicago
+- [Chicago](https://docs.google.com/presentation/d/1ZiTZtG7hc41E1IyEU-KmEK0l933Nn-9XNptzAi-tojY/edit#slide=id.gf4f4b43f4_0_0)
 - DC
-- NYC
+- [NYC](https://docs.google.com/presentation/d/1E4-xIF7KIpqIsC3kzW50p3wX7dAs_j4t5a1MNX4v6u0/edit#slide=id.g35bbd78aa5_0_23)
 - Denver
 - Los Angeles
-- San Francisco
-- Seattle
+- [San Francisco](https://drive.google.com/file/d/1YkFlvMtUv48GfDb70BI4fqv0eURLlmCr/view?usp=sharing)
+- [Seattle](https://docs.google.com/presentation/d/13ZlKw-tc_g08FOwWQBWkB56iVItLgAAblr6Kf3_l6Zc/edit?usp=sharing)
 
 ## Further Reading/ Resources:
 
