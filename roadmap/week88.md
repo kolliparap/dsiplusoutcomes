@@ -32,7 +32,7 @@ Homework due next Monday at 7PM.
 
 - [Atlanta](https://docs.google.com/presentation/d/17uEGhkhe7X0NPq2vBgVoot7F43qSUvFU8WrBW7C4OpM/edit?usp=sharing)
 - [Austin](https://drive.google.com/file/d/12wmBVayekxqx_kSvtTCI9eKEKjPeOs4A/view?usp=sharing)
-- Boston
+- [Boston](https://drive.google.com/open?id=1F9thStD8t8_gKnUxKuOWUKjAcxGV7I0O)
 - [Chicago](https://docs.google.com/presentation/d/1ZiTZtG7hc41E1IyEU-KmEK0l933Nn-9XNptzAi-tojY/edit#slide=id.gf4f4b43f4_0_0)
 - DC
 - [NYC](https://docs.google.com/presentation/d/1E4-xIF7KIpqIsC3kzW50p3wX7dAs_j4t5a1MNX4v6u0/edit#slide=id.g35bbd78aa5_0_23)
