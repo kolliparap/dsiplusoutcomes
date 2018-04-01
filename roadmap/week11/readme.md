@@ -43,6 +43,8 @@ Within your [local market repo in Github](https://github.com/ga-students/dsiplus
 - Anything you want us to know about your situation or job search in general?
 
 ## Further Reading/ Resources: 
+View the session recording [here](https://youtu.be/EvkAGGRJBes)
+
 [Questions previous DSI students have encountered](https://docs.google.com/document/d/1fJ9tc-MukNZpSaAlRmzFCOkzjYMYDgc7WXmv175fRp0/edit?ts=5808f8cd#heading=h.djmud7b0l4gl)
 
 [100 Data Science interview questions and answers](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2016/184)
