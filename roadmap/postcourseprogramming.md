@@ -92,7 +92,7 @@ NAME, EMAIL, PHONE
 **Washington D.C.:** April 18 from 3-7pm EST
 
 ### WEST COAST
-**Denver:** 
+**Denver:** May 1 from 5-7pm MST
 
 **San Francisco:** May 2 from 12-1:30pm PST
 
